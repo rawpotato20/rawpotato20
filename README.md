@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since March of 2025.<br>📚 I'm currently still in school.<br>🎯 Goals: Become 10x Full-Stack developer.<br>🎲 Fun fact: I also part-take in video editing and Photoshop.</p>
+<p align="left">✨ Creating bugs since March of 2025.<br>📚 I'm currently still in school.<br>🎯 Goals: Become 10x Full-Stack developer.<br>🎲 Fun fact: I also partake in video editing and Photoshop.</p>
 
 ###
 
