@@ -19,9 +19,9 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img src="https://img.shields.io/badge/MongoDB-001e2b?style=for-the-badge&logo=mongodb" height="40" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img src="https://img.shields.io/badge/Express-eaeaea?style=for-the-badge&logo=express&logoColor=030303" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://camo.githubusercontent.com/f93e05694a6f01f2f6a37713a454a942442a5ff2b33083891096a6f7e57842f8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d2532333230323332612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642" height="40" alt="react logo"  />
   <img width="12" />
@@ -29,12 +29,12 @@
   <img width="12" />
   <img src="https://camo.githubusercontent.com/29d02b3669d6450d67e043cf5909e740dcb94c1e2306d88ac48b15b4ec55dc65/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://img.shields.io/badge/Typescript-3179c7?style=for-the-badge&logo=typescript&logoColor=ffffff" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://img.shields.io/badge/NodeJS-eaeaea?style=for-the-badge&logo=nodedotjs&logoColor=6db84f" height="40" alt="nodejs logo"  />
   <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://img.shields.io/badge/Postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=eaeaea" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://camo.githubusercontent.com/d4d9d935f85b68223a3514c6a889ea3ed6a77afb5f560c05baa1a1b168077830/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -42,23 +42,25 @@
   <img width="12" />
   <img src="https://camo.githubusercontent.com/b2eac0f505dfd05c25acf8c285b5eb346916090126c8836c6cbf9aeb754eac32/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7461696c77696e646373732d2532333338423241432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7461696c77696e642d637373266c6f676f436f6c6f723d7768697465" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-   <img src="https://camo.githubusercontent.com/2eb175ce2c732f25324f81abddacc5e8ae1bae8394db207ae30bb1d2c206afca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6669676d612d2532334632344531452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6669676d61266c6f676f436f6c6f723d7768697465" height="40" alt="aftereffects logo"  />
+   <img src="https://camo.githubusercontent.com/2eb175ce2c732f25324f81abddacc5e8ae1bae8394db207ae30bb1d2c206afca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6669676d612d2532334632344531452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6669676d61266c6f676f436f6c6f723d7768697465" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://camo.githubusercontent.com/0d7ef95b10e93801a3bd8637bec636064d518a4c73366504ed50b04cf32a5727/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626f6f7473747261702d2532333536334437432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://camo.githubusercontent.com/94d83dc5838e2784bee25fe9e019bc2fda128676f32cef2f06baa0f6f3849b8c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d2532334630353033332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465" height="40" alt="git logo"  />
   <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" alt="premierepro logo"  />
-  <img src="https://camo.githubusercontent.com/c93952e2cc5019b1fb1bfe89e589ec4fb382189e217116421dfe5ead3093032c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41646f62652532304166746572253230456666656374732d3939393946462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d41646f6265253230416674657225323045666665637473266c6f676f436f6c6f723d7768697465" height="40" alt="aftereffects logo"  />
+<img src="https://img.shields.io/badge/Adobe_Premiere_Pro-00005b?style=for-the-badge" height="40" alt="premiere pro logo"  />
+ <img width="12" />
+  <img src="https://img.shields.io/badge/Adobe_After_Effects-00005b?style=for-the-badge" height="40" alt="after effects logo"  />
   <img width="12" />
-  <img src="https://camo.githubusercontent.com/a21282797ec80bb83bc35d89e23bf5929b12deb95eeeb989d452cd27468c8ba1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f61646f626570686f746f73686f702d2532333331413846462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d61646f626570686f746f73686f70266c6f676f436f6c6f723d7768697465" height="40" alt="photoshop logo"  />
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-001e36?style=for-the-badge" height="40" alt="photoshop logo"  />
   <img width="12" />
-  <img src="https://camo.githubusercontent.com/ba640df868a40d0d32d28ebcee646cfdcbd42f23ab6e19cbfc860f623d6b230e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f61646f6265696c6c7573747261746f722d2532334646394130302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d61646f6265696c6c7573747261746f72266c6f676f436f6c6f723d7768697465" height="40" alt="illustrator logo"  />
+  <img src="https://img.shields.io/badge/Adobe_Illustrator-330000?style=for-the-badge" height="40" alt="illustrator logo"  />
   <img width="12" />
   
 
   <img src="https://camo.githubusercontent.com/9494badd49f215e4673767f9f52725d8401f36802aa41cc110be4b6917bf0d30/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d41726475696e6f2d3030393739443f7374796c653d666f722d7468652d6261646765266c6f676f3d41726475696e6f266c6f676f436f6c6f723d7768697465" height="40" alt="arduino logo"  />
   <img width="12" />
+
 </div>
 
 ###
